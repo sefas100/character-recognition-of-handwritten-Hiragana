@@ -1,4 +1,4 @@
-# nn-character-recognition-of-natural-written-japanese
+# Character Recognition of Handwritten Hiragana
 
 #1. In order to run the program start NN via a Vs Code or a different application that can handle Notebooks (The Code needs to be altered then!)
 #2. Run all
