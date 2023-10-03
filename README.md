@@ -1,7 +1,7 @@
 # nn-character-recognition-of-natural-written-japanese
 
 #1. In order to run the program start NN via a Vs Code or a different application that can handle Notebooks (The Code needs to be altered then!)
-# Run all
+#Run all
 #2. Draw the desired sign into the canvas and press on top left "recognize" to start the process
 #3. On right side three possible recognized signs will appear with their % chance underneath
 #4. For a new input or to retry the process press "clear" on top left 
